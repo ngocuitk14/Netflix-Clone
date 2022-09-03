@@ -21,7 +21,6 @@ const Row = ({ title, fetchURL, rowID }) => {
     slider.scrollLeft = slider.scrollLeft + 500;
   };
 
-  console.log(movies);
 
   return (
     <div>
